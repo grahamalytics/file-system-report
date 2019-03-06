@@ -1,0 +1,5 @@
+.idea/
+alteryx/
+/python/logs/
+/python/alteryx-server-files-query-powershell-DEBUG.py
+/python/alteryx-server-files-query-oswalk.py
